@@ -1,0 +1,48 @@
+.add {
+  background-color: #2db7f5;
+  border-color: #2db7f5;
+  color: #fff;
+}
+.enable {
+  background-color: #0c6;
+  border-color: #0c6;
+  color: #fff;
+}
+.disable {
+  background-color: #ff4949;
+  border-color: #ff4949;
+  color: #fff;
+}
+.advancedQuery {
+  background-color: #2d8cf0;
+  border-color: #2d8cf0;
+  color: #fff;
+}
+.import {
+  background-color: #19be6b;
+  border-color: #19be6b;
+  color: #fff;
+}
+.button-group {
+  margin-bottom: 10px;
+}
+.el-tree-parent {
+  height: 76.5vh;
+}
+.el-table-parent {
+  height: 72vh;
+  position: relative;
+}
+.pagePlug {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+.dialog-footer {
+  display: flex;
+  justify-content: center;
+}
+/* 重写按钮间距 */
+.el-button + .el-button {
+  margin-left: 6px;
+}
